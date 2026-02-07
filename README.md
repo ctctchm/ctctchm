@@ -14,7 +14,7 @@ Pinned repositories showcase experiments and projects — proof over words.
                 theo@localhost
         ┌───────────────────────────────┐
         │ Focus   : systems & security  │
-        │ Uptime  : 17 years            │
+        │ Uptime  : 19 years            │
         └───────────────────────────────┘
 
 ~/projects
