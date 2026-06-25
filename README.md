@@ -10,7 +10,7 @@ Focused on systems, security, and understanding the mechanics behind the code.
 
 」
 
-                theo@localhost
+                ctctchm@localhost
         ┌───────────────────────────────┐
         │ Focus   : systems & security  │
         │ Uptime  : 19 years            │
